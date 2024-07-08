@@ -1,5 +1,3 @@
-**![AI Afbeelding]([https://example.com/your-ai-image.jpg](https://adventio.nl/wp-content/uploads/2024/04/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai.jpg))**
-
 # README voor Cumlaude.ai
 
 Welkom bij Cumlaude.ai! Wij helpen organisaties om effectiever te werken door AI-oplossingen te implementeren.
